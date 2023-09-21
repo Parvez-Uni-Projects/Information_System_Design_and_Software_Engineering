@@ -1,5 +1,26 @@
 # Estimation for software projects
 
+<!-- Add table of content -->
+
+Table of content
+================
+
+* [Software Project planning](#software-project-planning)
+* [Why do we need to estimate?](#why-do-we-need-to-estimate)
+* [Project planning Task Set](#project-planning-task-set)
+* [What is Scope?](#what-is-scope)
+* [How to define scope?](#how-to-define-scope)
+* [What is resource?](#what-is-resource)
+* [What is estimation?](#what-is-estimation)
+* [Software Project Estimation](#software-project-estimation)
+* [Estimation Techniques](#estimation-techniques)
+* [Decomposition Techniques Software Siziing](#decomposition-techniques-software-siziing)
+* [Problem based Estimation](#problem-based-estimation)
+* [Conventional approach (LOC/FP)](#conventional-approach-locfp)
+* [Example of LOC based estimation](#example-of-loc-based-estimation)
+* [Example of FP based estimation](#example-of-fp-based-estimation)
+
+
 ## Software Project planning
  The overall goal of planning is to establish a pragmatic strategy for controlling , tracking and monitoring a complex technical project. Planning is an essential step in estimating the time required to complete a project. The planning process should result in a set of actions to define and coordinate the following
 
