@@ -1,6 +1,51 @@
 # Software testing 
 Testing is the process of exercising a program with the specific intent of finding errors prior to delivery to the end user.
 
+
+<!-- Make a table of content of the whole file -->
+
+Table of content
+================
+
+<!--ts-->
+
+   * [Software testing](#software-testing)
+      * [What is testing?](#what-is-testing)
+      * [Why is testing necessary?](#why-is-testing-necessary)
+      * [What testing shows?](#what-testing-shows)
+      * [Strategic approach to software testing](#strategic-approach-to-software-testing)
+      * [V and V](#v-and-v)
+         * [Verification](#verification)
+         * [Validation](#validation)
+      * [Who tests the software?](#who-tests-the-software)
+      * [Testing Strategies](#testing-strategies)
+         * [For conventional software](#for-conventional-software)
+         * [For OO software](#for-oo-software)
+      * [Strategic Issues](#strategic-issues)
+      * [Unit testing](#unit-testing)
+      * [Unit testing environment](#unit-testing-environment)
+      * [Integration testing](#integration-testing)
+      * [Top-down integration testing](#top-down-integration-testing)
+      * [Bottom-up integration testing](#bottom-up-integration-testing)
+      * [Sandwich integration testing](#sandwich-integration-testing)
+      * [Regression testing](#regression-testing)
+      * [Smoke testing](#smoke-testing)
+      * [Object-oriented testing](#object-oriented-testing)
+      * [Broadening the View of “Testing”](#broadening-the-view-of-testing)
+      * [OO Testing Strategy](#oo-testing-strategy)
+      * [WebApp Testing](#webapp-testing)
+      * [High-Order Testing](#high-order-testing)
+      * [Consequence of Bugs](#consequence-of-bugs)
+      * [Debugging : A Diagnostic Process](#debugging--a-diagnostic-process)
+      * [Debugging Effort](#debugging-effort)
+      * [Symptoms and Causes](#symptoms-and-causes)
+      * [Debugging Strategies](#debugging-strategies)
+      * [Correcting the Error](#correcting-the-error)
+      * [Final Thoughts](#final-thoughts)
+
+
+
+
 ## What testing shows? 
 ![Alt text](image.png)
 
