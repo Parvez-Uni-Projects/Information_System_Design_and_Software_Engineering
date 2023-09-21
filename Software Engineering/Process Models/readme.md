@@ -287,3 +287,67 @@ G   --> A
 ```
 
 ![Alt text](image.png)
+
+# Agile Development
+
+## What is Agility?
+
+1. Effective (rapid and adaptive) response to change
+2. Effective communication among all stakeholders
+3. Drawing the customer onto the team
+4. Organizing a team so that it is in control of the work performed
+5. Yielding …Rapid, incremental delivery of software
+
+## Agility and the Cost of Change
+![Alt text](image-1.png)
+
+## An agile process
+1. Is driven by customer descriptions of what is required (scenarios)
+2. Recognizes that plans are short-lived
+3. Develops software iteratively with a heavy emphasis on construction activities
+4. Delivers multiple ‘software increments’
+5. Adapts as changes occur
+
+## Agile Frameworks
+![Alt text](image-2.png)
+![Alt text](image-3.png)
+
+## Scrum
+![Alt text](image-4.png)
+![Alt text](image-5.png)
+
+## Extreme Programming(XP)
+![Alt text](image-6.png)
+
+The most widely used agile process, originally proposed by Kent Beck
+
+### XP Planning
+■ Begins with the creation of “user stories”
+
+■ Agile team assesses each story and assigns a cost
+
+■ Stories are grouped to for a deliverable increment
+
+■ A commitment is made on delivery date
+
+■ After the first increment “project velocity” is used to help define subsequent delivery dates for other increments
+
+###  XP Design
+■ Follows the KISS principle
+
+■ Encourage the use of CRC cards 
+
+■ For difficult design problems, suggests the creation of “spike solutions”—a design prototype
+
+■ Encourages “refactoring”—an iterative refinement of the 
+internal program design
+
+### XP Coding
+■ Recommends the construction of a unit test for a store before coding commences
+
+■ Encourages “pair programming”
+
+### XP Testing
+■ All unit tests are executed daily
+
+■ “Acceptance tests” are defined by the customer and excuted to assess customer visible functionality
