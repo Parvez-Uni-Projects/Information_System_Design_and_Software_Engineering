@@ -1,4 +1,23 @@
 
+
+* [Project Initiation](#project-initiation)
+* [Organizational Problems](#organizational-problems)
+* [Project Selection](#project-selection)
+* [Feasibility](#feasibility)
+* [Activity Planning](#activity-planning)
+* [Estimating Time](#estimating-time)
+* [Gantt Charts](#gantt-charts)
+* [Advantages of GANTT Chart](#advantages-of-gantt-chart)
+* [Disadvantages of GANTT Chart](#disadvantages-of-gantt-chart)
+* [GANTT Chart Example](#gantt-chart-example)
+* [PERT](#pert)
+    * [Activity-on-node diagrams:](#activity-on-node-diagrams)
+    * [Activity-on-arrow diagrams:](#activity-on-arrow-diagrams)
+* [PERT Diagram Advantages](#pert-diagram-advantages)
+* [Pert Diagram Example](#pert-diagram-example)
+    * [Question](#question)
+
+
 ## Project Initiation
 
 Projects are initiated for two broad reasons:
